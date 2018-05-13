@@ -1,0 +1,607 @@
+--------------------------------------------------------------------------------
+batch_size.....................................................................1
+bl_dec......................................................................0.99
+checkpoint_dir.................................../checkpoint/policy_network.ckpt
+data_path.......................................................................
+discount....................................................................0.99
+grad_bound...................................................................5.0
+load_checkpoint.............................................................True
+log_every......................................................................1
+lr..........................................................................0.01
+n_eps.......................................................................3000
+n_hidden.....................................................................200
+output_dir...............................................................outputs
+render.....................................................................False
+reset_every....................................................................1
+reset_output_dir............................................................True
+save_step.....................................................................10
+update_every...................................................................1
+--------------------------------------------------------------------------------
+Building OpenAI gym environment.
+I am loading!
+Episode 1 finished after 24 rounds
+Reward total was -19.000; discounted moving average of reward is -19.000
+I am saving!
+Episode 2 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.020
+I am saving!
+Episode 3 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.040
+I am saving!
+Episode 4 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.059
+I am saving!
+Episode 5 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.079
+I am saving!
+Episode 6 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.098
+I am saving!
+Episode 7 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.117
+I am saving!
+Episode 8 finished after 23 rounds
+Reward total was -20.000; discounted moving average of reward is -19.126
+I am saving!
+Episode 9 finished after 24 rounds
+Reward total was -19.000; discounted moving average of reward is -19.125
+I am saving!
+Episode 10 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.143
+Episode 11 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.162
+I am saving!
+Episode 12 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.180
+I am saving!
+Episode 13 finished after 23 rounds
+Reward total was -20.000; discounted moving average of reward is -19.189
+I am saving!
+Episode 14 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.207
+I am saving!
+Episode 15 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.225
+I am saving!
+Episode 16 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.242
+I am saving!
+Episode 17 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.260
+I am saving!
+Episode 18 finished after 23 rounds
+Reward total was -20.000; discounted moving average of reward is -19.267
+I am saving!
+Episode 19 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.285
+I am saving!
+Episode 20 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.302
+Episode 21 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.319
+I am saving!
+Episode 22 finished after 23 rounds
+Reward total was -20.000; discounted moving average of reward is -19.326
+I am saving!
+Episode 23 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.342
+I am saving!
+Episode 24 finished after 24 rounds
+Reward total was -19.000; discounted moving average of reward is -19.339
+I am saving!
+Episode 25 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.355
+I am saving!
+Episode 26 finished after 23 rounds
+Reward total was -20.000; discounted moving average of reward is -19.362
+I am saving!
+Episode 27 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.378
+I am saving!
+Episode 28 finished after 24 rounds
+Reward total was -19.000; discounted moving average of reward is -19.375
+I am saving!
+Episode 29 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.391
+I am saving!
+Episode 30 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.407
+Episode 31 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.423
+I am saving!
+Episode 32 finished after 24 rounds
+Reward total was -19.000; discounted moving average of reward is -19.419
+I am saving!
+Episode 33 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.434
+I am saving!
+Episode 34 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.450
+I am saving!
+Episode 35 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.466
+I am saving!
+Episode 36 finished after 23 rounds
+Reward total was -20.000; discounted moving average of reward is -19.471
+I am saving!
+Episode 37 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.486
+I am saving!
+Episode 38 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.501
+I am saving!
+Episode 39 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.516
+I am saving!
+Episode 40 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.531
+Episode 41 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.546
+I am saving!
+Episode 42 finished after 23 rounds
+Reward total was -20.000; discounted moving average of reward is -19.550
+I am saving!
+Episode 43 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.565
+I am saving!
+Episode 44 finished after 23 rounds
+Reward total was -20.000; discounted moving average of reward is -19.569
+I am saving!
+Episode 45 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.584
+I am saving!
+Episode 46 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.598
+I am saving!
+Episode 47 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.612
+I am saving!
+Episode 48 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.626
+I am saving!
+Episode 49 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.639
+I am saving!
+Episode 50 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.653
+Episode 51 finished after 23 rounds
+Reward total was -20.000; discounted moving average of reward is -19.656
+I am saving!
+Episode 52 finished after 23 rounds
+Reward total was -20.000; discounted moving average of reward is -19.660
+I am saving!
+Episode 53 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.673
+I am saving!
+Episode 54 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.687
+I am saving!
+Episode 55 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.700
+I am saving!
+Episode 56 finished after 24 rounds
+Reward total was -19.000; discounted moving average of reward is -19.693
+I am saving!
+Episode 57 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.706
+I am saving!
+Episode 58 finished after 23 rounds
+Reward total was -20.000; discounted moving average of reward is -19.709
+I am saving!
+Episode 59 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.722
+I am saving!
+Episode 60 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.734
+Episode 61 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.747
+I am saving!
+Episode 62 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.760
+I am saving!
+Episode 63 finished after 24 rounds
+Reward total was -19.000; discounted moving average of reward is -19.752
+I am saving!
+Episode 64 finished after 23 rounds
+Reward total was -20.000; discounted moving average of reward is -19.754
+I am saving!
+Episode 65 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.767
+I am saving!
+Episode 66 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.779
+I am saving!
+Episode 67 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.791
+I am saving!
+Episode 68 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.804
+I am saving!
+Episode 69 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.816
+I am saving!
+Episode 70 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.827
+Episode 71 finished after 23 rounds
+Reward total was -20.000; discounted moving average of reward is -19.829
+I am saving!
+Episode 72 finished after 24 rounds
+Reward total was -19.000; discounted moving average of reward is -19.821
+I am saving!
+Episode 73 finished after 24 rounds
+Reward total was -19.000; discounted moving average of reward is -19.813
+I am saving!
+Episode 74 finished after 23 rounds
+Reward total was -20.000; discounted moving average of reward is -19.814
+I am saving!
+Episode 75 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.826
+I am saving!
+Episode 76 finished after 25 rounds
+Reward total was -18.000; discounted moving average of reward is -19.808
+I am saving!
+Episode 77 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.820
+I am saving!
+Episode 78 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.832
+I am saving!
+Episode 79 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.843
+I am saving!
+Episode 80 finished after 23 rounds
+Reward total was -20.000; discounted moving average of reward is -19.845
+Episode 81 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.857
+I am saving!
+Episode 82 finished after 23 rounds
+Reward total was -20.000; discounted moving average of reward is -19.858
+I am saving!
+Episode 83 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.869
+I am saving!
+Episode 84 finished after 23 rounds
+Reward total was -20.000; discounted moving average of reward is -19.871
+I am saving!
+Episode 85 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.882
+I am saving!
+Episode 86 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.893
+I am saving!
+Episode 87 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.904
+I am saving!
+Episode 88 finished after 23 rounds
+Reward total was -20.000; discounted moving average of reward is -19.905
+I am saving!
+Episode 89 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.916
+I am saving!
+Episode 90 finished after 23 rounds
+Reward total was -20.000; discounted moving average of reward is -19.917
+Episode 91 finished after 23 rounds
+Reward total was -20.000; discounted moving average of reward is -19.918
+I am saving!
+Episode 92 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.929
+I am saving!
+Episode 93 finished after 23 rounds
+Reward total was -20.000; discounted moving average of reward is -19.929
+I am saving!
+Episode 94 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.940
+I am saving!
+Episode 95 finished after 23 rounds
+Reward total was -20.000; discounted moving average of reward is -19.941
+I am saving!
+Episode 96 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.951
+I am saving!
+Episode 97 finished after 23 rounds
+Reward total was -20.000; discounted moving average of reward is -19.952
+I am saving!
+Episode 98 finished after 23 rounds
+Reward total was -20.000; discounted moving average of reward is -19.952
+I am saving!
+Episode 99 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.963
+I am saving!
+Episode 100 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.973
+Episode 101 finished after 23 rounds
+Reward total was -20.000; discounted moving average of reward is -19.973
+I am saving!
+Episode 102 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.984
+I am saving!
+Episode 103 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -19.994
+I am saving!
+Episode 104 finished after 23 rounds
+Reward total was -20.000; discounted moving average of reward is -19.994
+I am saving!
+Episode 105 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.004
+I am saving!
+Episode 106 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.014
+I am saving!
+Episode 107 finished after 23 rounds
+Reward total was -20.000; discounted moving average of reward is -20.014
+I am saving!
+Episode 108 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.024
+I am saving!
+Episode 109 finished after 23 rounds
+Reward total was -20.000; discounted moving average of reward is -20.023
+I am saving!
+Episode 110 finished after 24 rounds
+Reward total was -19.000; discounted moving average of reward is -20.013
+Episode 111 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.023
+I am saving!
+Episode 112 finished after 23 rounds
+Reward total was -20.000; discounted moving average of reward is -20.023
+I am saving!
+Episode 113 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.033
+I am saving!
+Episode 114 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.042
+I am saving!
+Episode 115 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.052
+I am saving!
+Episode 116 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.061
+I am saving!
+Episode 117 finished after 23 rounds
+Reward total was -20.000; discounted moving average of reward is -20.061
+I am saving!
+Episode 118 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.070
+I am saving!
+Episode 119 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.079
+I am saving!
+Episode 120 finished after 23 rounds
+Reward total was -20.000; discounted moving average of reward is -20.079
+Episode 121 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.088
+I am saving!
+Episode 122 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.097
+I am saving!
+Episode 123 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.106
+I am saving!
+Episode 124 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.115
+I am saving!
+Episode 125 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.124
+I am saving!
+Episode 126 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.132
+I am saving!
+Episode 127 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.141
+I am saving!
+Episode 128 finished after 23 rounds
+Reward total was -20.000; discounted moving average of reward is -20.140
+I am saving!
+Episode 129 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.148
+I am saving!
+Episode 130 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.157
+Episode 131 finished after 25 rounds
+Reward total was -18.000; discounted moving average of reward is -20.135
+I am saving!
+Episode 132 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.144
+I am saving!
+Episode 133 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.153
+I am saving!
+Episode 134 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.161
+I am saving!
+Episode 135 finished after 23 rounds
+Reward total was -20.000; discounted moving average of reward is -20.159
+I am saving!
+Episode 136 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.168
+I am saving!
+Episode 137 finished after 23 rounds
+Reward total was -20.000; discounted moving average of reward is -20.166
+I am saving!
+Episode 138 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.174
+I am saving!
+Episode 139 finished after 23 rounds
+Reward total was -20.000; discounted moving average of reward is -20.173
+I am saving!
+Episode 140 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.181
+Episode 141 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.189
+I am saving!
+Episode 142 finished after 23 rounds
+Reward total was -20.000; discounted moving average of reward is -20.187
+I am saving!
+Episode 143 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.195
+I am saving!
+Episode 144 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.203
+I am saving!
+Episode 145 finished after 23 rounds
+Reward total was -20.000; discounted moving average of reward is -20.201
+I am saving!
+Episode 146 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.209
+I am saving!
+Episode 147 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.217
+I am saving!
+Episode 148 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.225
+I am saving!
+Episode 149 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.233
+I am saving!
+Episode 150 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.241
+Episode 151 finished after 23 rounds
+Reward total was -20.000; discounted moving average of reward is -20.238
+I am saving!
+Episode 152 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.246
+I am saving!
+Episode 153 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.253
+I am saving!
+Episode 154 finished after 23 rounds
+Reward total was -20.000; discounted moving average of reward is -20.251
+I am saving!
+Episode 155 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.258
+I am saving!
+Episode 156 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.266
+I am saving!
+Episode 157 finished after 23 rounds
+Reward total was -20.000; discounted moving average of reward is -20.263
+I am saving!
+Episode 158 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.270
+I am saving!
+Episode 159 finished after 23 rounds
+Reward total was -20.000; discounted moving average of reward is -20.268
+I am saving!
+Episode 160 finished after 25 rounds
+Reward total was -18.000; discounted moving average of reward is -20.245
+Episode 161 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.253
+I am saving!
+Episode 162 finished after 24 rounds
+Reward total was -19.000; discounted moving average of reward is -20.240
+I am saving!
+Episode 163 finished after 24 rounds
+Reward total was -19.000; discounted moving average of reward is -20.228
+I am saving!
+Episode 164 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.235
+I am saving!
+Episode 165 finished after 24 rounds
+Reward total was -19.000; discounted moving average of reward is -20.223
+I am saving!
+Episode 166 finished after 23 rounds
+Reward total was -20.000; discounted moving average of reward is -20.221
+I am saving!
+Episode 167 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.229
+I am saving!
+Episode 168 finished after 24 rounds
+Reward total was -19.000; discounted moving average of reward is -20.216
+I am saving!
+Episode 169 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.224
+I am saving!
+Episode 170 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.232
+Episode 171 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.240
+I am saving!
+Episode 172 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.247
+I am saving!
+Episode 173 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.255
+I am saving!
+Episode 174 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.262
+I am saving!
+Episode 175 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.270
+I am saving!
+Episode 176 finished after 23 rounds
+Reward total was -20.000; discounted moving average of reward is -20.267
+I am saving!
+Episode 177 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.274
+I am saving!
+Episode 178 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.281
+I am saving!
+Episode 179 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.289
+I am saving!
+Episode 180 finished after 24 rounds
+Reward total was -19.000; discounted moving average of reward is -20.276
+Episode 181 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.283
+I am saving!
+Episode 182 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.290
+I am saving!
+Episode 183 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.297
+I am saving!
+Episode 184 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.304
+I am saving!
+Episode 185 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.311
+I am saving!
+Episode 186 finished after 24 rounds
+Reward total was -19.000; discounted moving average of reward is -20.298
+I am saving!
+Episode 187 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.305
+I am saving!
+Episode 188 finished after 25 rounds
+Reward total was -18.000; discounted moving average of reward is -20.282
+I am saving!
+Episode 189 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.289
+I am saving!
+Episode 190 finished after 23 rounds
+Reward total was -20.000; discounted moving average of reward is -20.286
+Episode 191 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.293
+I am saving!
+Episode 192 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.301
+I am saving!
+Episode 193 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.308
+I am saving!
+Episode 194 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.314
+I am saving!
+Episode 195 finished after 25 rounds
+Reward total was -18.000; discounted moving average of reward is -20.291
+I am saving!
+Episode 196 finished after 23 rounds
+Reward total was -20.000; discounted moving average of reward is -20.288
+I am saving!
+Episode 197 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.296
+I am saving!
+Episode 198 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.303
+I am saving!
+Episode 199 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.310
+I am saving!
+Episode 200 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.316
+Episode 201 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.323
+I am saving!
+Episode 202 finished after 22 rounds
+Reward total was -21.000; discounted moving average of reward is -20.330
+I am saving!
